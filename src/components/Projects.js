@@ -13,8 +13,8 @@ const Projects = () => {
                             <div key={id} className="bg-blue-50 flex flex-col justify-between p-5 rounded-lg text-blue-900 text-opacity-75 lg:max-w-2xl hover:bg-white border border-opacity-0 hover:border-blue-600 transform hover:scale-105 hover:shadow-xl transition-all duration-500" >
                                 <div>
                                     <h1 className='font-light text-5xl pb-2 ' >{name}</h1>
-                                    <h2 className='font-medium text-xl pb-2'>{tech}</h2>
-                                    <p>{info}</p>
+                                    <h2 className='font-medium text-xl pb-2 2xl:text-lg'>{tech}</h2>
+                                    <p className='2xl:text-lg'>{info}</p>
                                 </div>
                                 <div className=" flex flex-col pt-5 text-center">
                                     <div className='flex justify-between mb-2'>

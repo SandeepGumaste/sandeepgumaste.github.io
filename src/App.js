@@ -8,7 +8,7 @@ import Skills from './components/Skills';
 
 function App() {
   return (
-    <div className="2xl:px-80 xl:px-60 lg:px-40 sm:px-20">
+    <div className="xl:px-60 2xl:px-64 lg:px-40 sm:px-20">
       <Intro/>
       <Projects/>
       <About/>

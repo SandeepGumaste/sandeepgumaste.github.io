@@ -44,7 +44,7 @@ const projectslist = [
         id:6,
         name:'Pricing cards',
         tech:'HTML | SCSS | JavaScript',
-        info: 'Multipage countries wiki using RESTcountries api and react-router',
+        info: 'Responsive pricing cards with price toggle',
         live:"https://sg-frontendmentor.netlify.app/pricing-component-with-toggle/",
         github:"https://github.com/SandeepGumaste/Frontend-mentor-challenges/tree/main/Pricing-component-with-toggle"
     },
