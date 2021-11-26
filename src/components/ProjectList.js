@@ -2,7 +2,7 @@ const projectslist = [
   {
     id: 7,
     name: "Inshorts Clone",
-    tech: "MongoDB | Express | React | Node",
+    tech: "MERN stack",
     info: "Inshorts clone app with MaterialUI",
     live: "https://inshorts-clone-app.herokuapp.com/",
     github: "https://github.com/SandeepGumaste/inshorts-clone-app",
@@ -33,15 +33,15 @@ const projectslist = [
     github:
       "https://github.com/SandeepGumaste/Frontend-mentor-challenges/tree/main/calculator-app-main",
   },
-  {
-    id: 4,
-    name: "Calculator",
-    tech: "React | Tailwind CSS",
-    info: "Neomorphic themed calculator using react hooks",
-    live: "https://sg-react-calculator.netlify.app/",
-    github:
-      "https://github.com/SandeepGumaste/Codewell-challenges/tree/main/Fiber%20landing%20page",
-  },
+  //   {
+  //     id: 4,
+  //     name: "Calculator",
+  //     tech: "React | Tailwind CSS",
+  //     info: "Neomorphic themed calculator using react hooks",
+  //     live: "https://sg-react-calculator.netlify.app/",
+  //     github:
+  //       "https://github.com/SandeepGumaste/Codewell-challenges/tree/main/Fiber%20landing%20page",
+  //   },
   {
     id: 5,
     name: "Fiber",
