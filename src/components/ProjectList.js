@@ -2,8 +2,8 @@ const projectslist = [
   {
     id: 7,
     name: "Inshorts Clone",
-    tech: "MERN stack",
-    info: "Inshorts clone app with MaterialUI",
+    tech: "MERN stack | Material UI",
+    info: "Inshorts clone app with infinite scroll feature",
     live: "https://inshorts-clone-app.herokuapp.com/",
     github: "https://github.com/SandeepGumaste/inshorts-clone-app",
   },
