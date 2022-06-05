@@ -1,5 +1,13 @@
 const projectslist = [
   {
+    id: 8,
+    name: "helloar.io",
+    tech: "Gatsby | Wordpress | Bootstrap",
+    info: "Company website for HelloAR",
+    live: "https://helloar.io/",
+    github: "",
+  },
+  {
     id: 7,
     name: "Inshorts Clone",
     tech: "MERN stack | Material UI",
@@ -12,8 +20,8 @@ const projectslist = [
     name: "Countries DB",
     tech: "React | Tailwind CSS | REST api",
     info: "Multipage countries wiki using RESTcountries api and react-router",
-    live: "https://sg-react-restcountries.netlify.app/",
-    github: "https://rest-countries-sandeepgumaste.netlify.app",
+    live: "https://rest-countries-sandeepgumaste.netlify.app",
+    github: "https://github.com/SandeepGumaste/react-REST-Countries",
   },
   {
     id: 2,
