@@ -13,7 +13,7 @@ const projectslist = [
     tech: "React | Tailwind CSS | REST api",
     info: "Multipage countries wiki using RESTcountries api and react-router",
     live: "https://sg-react-restcountries.netlify.app/",
-    github: "https://github.com/SandeepGumaste/react-REST-Countries",
+    github: "https://rest-countries-sandeepgumaste.netlify.app",
   },
   {
     id: 2,
